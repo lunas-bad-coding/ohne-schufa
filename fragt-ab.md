@@ -1,5 +1,11 @@
-In diesem File sammle ich Unternehmen, die Bonitätsdaten bei der Schufa abfragen.
+# Abfragende Unternehmen
 
-== Carsharing-Unternehmen ==
-- cambio CarSharing (cambio Köln)
-- Stadtteilauto Münster
+| Carsharing-Unternehmen | fragt ab   | trägt ein|
+|--|--|--|
+|cambio CarSharing (cambio Köln)|X ||
+|Stadtteilauto Münster  |X||
+|  |  ||
+
+"X" = Wird gemacht
+" - " = Wird nicht gemacht
+" ? " = Keine Info
