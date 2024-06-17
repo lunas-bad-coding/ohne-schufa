@@ -1,3 +1,4 @@
 industry,company,pulls-schufa,reports-to-schufa,remarks
-Carsharing,cambio Carsharing (cambio Köln),yes,unknown,
-Carsharing,Stadtteilauto Münster,yes,unknown,
+car-sharing,cambio Carsharing (cambio Köln),yes,unknown,
+car-sharing,Stadtteilauto Münster,yes,unknown,
+energy,eprimo GmbH,yes,no,
